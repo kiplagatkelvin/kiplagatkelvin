@@ -2,7 +2,7 @@
 <h3 align="center">Cyber Security Analyst | Threat intelligence analyst | Linux administrator | Information Security | IT Risk & Governance | IT Service management | Incident management</h3>
 
 <p align="center">
-  <img src="assets/hacker-banner.png" alt="Hacker Banner" width="100%">
+  <img src="assets/hackerr-banner.png" alt="Hacker Banner" width="100%">
 </p>
 
 ---
