@@ -1,15 +1,30 @@
-Hi, I’m Kelvin—an ambitious and resourceful Security Analyst who’s passionate about learning and mastering the art of cybersecurity. With a Bachelor's in Computer Security and Forensics, I’m on a mission to specialize in penetration testing, but I’m always open to learning across the entire cybersecurity field.
+<h1 align="center">Hi 👋, I'm Kelvin Kiplagat</h1>
+<h3 align="center">Cybersecurity Analyst | Digital Forensics | CTF Player | Cloud Security Enthusiast</h3>
 
-I’ve built my own homemade lab, where I practice everything from penetration testing techniques to web exploitation and vulnerability analysis. This hands-on environment gives me the freedom to experiment with tools like Nmap, Wireshark, and SIEM systems while continuously improving my knowledge and skills. It’s where theory meets practical application, and I thrive on pushing myself to explore deeper.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kiplagatkelvin&show_icons=true&theme=radical" alt="GitHub Stats">
+</p>
 
-Some of my technical strengths include:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kiplagatkelvin&layout=compact&theme=radical" alt="Most Used Languages">
+</p>
 
-Operating Systems: Proficient in both Windows and Linux environments.
-Risk Analysis & Vulnerability Scanning: Skilled in identifying risks and implementing proactive solutions.
-Web Exploitation: Analyzing and testing web applications for vulnerabilities.
-SIEM Systems: Hands-on experience with Cortex and other monitoring tools for detecting threats.
-MITRE ATT&CK Framework: Knowledge of adversary tactics and techniques to improve defense strategies.
-Python: Scripting and automation for penetration testing and task efficiency.
-I’m all about continuous learning, and my lab allows me to explore, test, and enhance my skills in a safe environment. I’m driven by a desire to protect digital systems and make a meaningful impact in the cybersecurity space.
+---
 
-While I’m focused on penetration testing, I’m equally interested in exploring other cybersecurity roles where I can leverage my expertise and hands-on experience. If you’re looking for someone who is passionate, resourceful, and eager to tackle complex security challenges, I’d love to connect.
+### 🛠 Tech Stack & Skills  
+<p align="center">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
+</p>
+
+---
+
+### 📫 Connect With Me  
+<p align="center">
+  <a href="https://linkedin.com/in/kiplagatkelvin"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://github.com/kiplagatkelvin"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"></a>
+  <a href="https://tryhackme.com/p/Kelvin"><img src="https://img.shields.io/badge/TryHackMe-0077B5?style=for-the-badge&logo=tryhackme&logoColor=white"></a>
+</p>
