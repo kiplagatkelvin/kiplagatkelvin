@@ -2,21 +2,7 @@
 <h3 align="center">Cyber Security Analyst | Threat intelligence analyst | Linux administrator | Information Security | IT Risk & Governance | IT Service management | </h3>
 
 
-```bash
-┌──(kiplagat㉿github)-[~/kiplagatkelvin]
-└─$ whoami
-Kelvin Kiplagat
-
-┌──(kiplagat㉿github)-[~/kiplagatkelvin]
-└─$ cat skills.txt
-- Cyber Security Analyst
-- Digital Forensics Specialist
-- Ethical Hacker
-- Linux Administrator
-- CTF Player & Open-Source Contributor
-
-
-
+---
 
 ---
 
