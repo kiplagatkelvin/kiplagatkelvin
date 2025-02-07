@@ -2,7 +2,8 @@
 <h3 align="center">Cyber Security Analyst | Threat intelligence analyst | Linux administrator | Information Security | IT Risk & Governance | IT Service management | </h3>
 
 <p align="center">
-  <img src="https://github.com/kiplagatkelvin/kiplagatkelvin/raw/main/assets/hacker-banner.png" alt="Hacker Banner" width="50%">
+  <img src="https://github.com/kiplagatkelvin/kiplagatkelvin/raw/main/assets/hacker-banner.png" alt="Hacker Banner" width="100%">
+  <img src="assets/hacker-banner.png" width="800px">
 </p>
 
 ---
