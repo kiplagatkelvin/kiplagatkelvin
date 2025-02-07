@@ -1,9 +1,20 @@
 <h1 align="center">👋 Hi, I'm Kelvin Kiplagat</h1>
 <h3 align="center">Cyber Security Analyst | Threat intelligence analyst | Linux administrator | Information Security | IT Risk & Governance | IT Service management | </h3>
 
-<p align="center">
-  <img src="https://github.com/kiplagatkelvin/kiplagatkelvin/raw/main/assets/hacker-banner.png" alt="Hacker Banner" width=1200px" height="400px">
-</p>
+
+```bash
+┌──(kiplagat㉿github)-[~/kiplagatkelvin]
+└─$ whoami
+Kelvin Kiplagat
+
+┌──(kiplagat㉿github)-[~/kiplagatkelvin]
+└─$ cat skills.txt
+- Cyber Security Analyst
+- Digital Forensics Specialist
+- Ethical Hacker
+- Linux Administrator
+- CTF Player & Open-Source Contributor
+
 
 
 
